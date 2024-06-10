@@ -1,0 +1,26 @@
+# Education Template
+- layout: left
+  name: PCET's Pimpri Chinchwad College of Engineering
+  dates: 2016 - present
+  qualification: BE, Electronics and Telecommunication
+  description: | # this will include new lines to allow paragraphs
+    I am currently a student of Third Year at the institute. In addition to getting a degree,
+    I have had an oppportunity to learn many life skills here like team work and project management.
+    I worked with embedded systems such as microprocessors, microcontrollers and SOCs like Raspberry Pi
+    and Arduino. I have also been actively involved in extra curricular activities like attending seminars,
+    paper presentations, events etc.
+
+- layout: right
+  name: Sri Chaitanya Raman Bhawan
+  dates: 2014 - 2016
+  qualification: Intermediate education
+
+- layout: left
+  name: KKR Gowtham International School
+  dates: 2012 - 2014
+  qualification: Secondary education
+
+- layout: right
+  name: KKR Gowtham International School
+  dates: 2004 - 2012
+  qualification: Primary education
