@@ -1,3 +1,0 @@
-https://googlecoursera.qwiklabs.com/lti_sessions/libraries/gcp-training-content/content/CBL173-building-a-devops-pipeline
-
-https://www.coursera.org/learn/cloud-infrastructure-design-process/gradedLti/88mO2/lab-building-a-devops-pipeline
