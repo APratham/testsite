@@ -7,9 +7,24 @@ name: Testsite
 title: Testing the Modern Resume Theme
 email: n1191635@my.ntu.ac.uk
 
+
 # Dark Mode (true/false/never)
 darkmode: false
 
+
+# Social media links
+social_links: 
+- title: LinkedIn
+  icon: fa-linkedin
+  url: https://www.linkedin.com/in/your-linkedin
+- title: Twitter  
+  icon: fa-twitter
+  url: https://twitter.com/your-twitter
+- title: GitHub 
+  icon: fa-github
+  url: https://github.com/your-github
+
+  
 # Additional icon links
 additional_links:
 - title: GitHub Repository
