@@ -3,47 +3,31 @@ repository: Git repository where your resume will be hosted, only required if yo
 favicon: assets/favicon.ico
 
 # Personal info
-name: Antariksh Pratham
-title: AI | ML | Google Cloud Platform
-email: antariksh.pratham@pccoepune.org
+name: Testsite
+title: Testing the Modern Resume Theme
+email: n1191635@my.ntu.ac.uk
 
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-twitter_username: ___apratham___
-#stackoverflow_username: /9378758/antariksh-pratham
-facebook_username: antariksh.pratham
-instagram_username: ___apratham___
-linkedin_username: apratham
-github_username:  APratham
-
 # Additional icon links
-#additional_links:
-#- title: Link name
-#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+- title: GitHub Repository
+ icon: fa-github
+ url: https://github.com/APratham/testsite
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: assets/profile.jpeg
+
+about_title: About the project
+#about_profile_image: assets/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  > Bringing value from grayscale data
+  > AI is the new electricity. Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don't think AI will transform in the next several years.
 
-  Antariksh is an AI, ML Researcher. He is completing his BE from PCCOE, Pune. He has great interest in Google Cloud Platform and uses it to build his projects.
-  Apart from that he is also well versed in embedded systems and SOCs like the Raspberry Pi and the Arduino platforms. He is a Mentor onboard the MahaWiki group
-  and has organised several seminars and workshops along with them. When he is not into tech he enjoys writing blogs and interacting with others to disseminate knowledge.
+  This project is a part of the NTU-IBM Watson AI Lab. The aim of this project is to develop a system that can convert grayscale images to colored images. 
+  The system will be able to take in a grayscale image and output a colored image. 
+  The system will be able to colorize images in real-time
 
-  <mark>C/C++</mark> <mark>Java</mark> <mark>Python</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>Google Cloud Platform</mark> <mark>TensorFlow</mark> <mark>Flutter</mark>
+  <mark>Angular</mark> <mark>Ionic Framework</mark> <mark>Electron</mark> <mark>Python</mark> <mark>Docker</mark> <mark>Kubernetes</mark>
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 #
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
@@ -69,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 #  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
