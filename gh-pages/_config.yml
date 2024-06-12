@@ -10,22 +10,22 @@ email: n1191635@my.ntu.ac.uk
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-twitter_username: ___apratham___
-#stackoverflow_username: /9378758/antariksh-pratham
-facebook_username: antariksh.pratham
-instagram_username: ___apratham___
-linkedin_username: apratham
-github_username:  APratham
+# # Social links
+# twitter_username: ___apratham___
+# #stackoverflow_username: /9378758/antariksh-pratham
+# facebook_username: antariksh.pratham
+# instagram_username: ___apratham___
+# linkedin_username: apratham
+# github_username:  APratham
 
-#Additional icon links
+# Additional icon links
 additional_links:
 - title: Link name
- icon: fa-twitter
- url: https://google.com
-- title: another link
-  icon: ffa-twitter
-  url: https://google.com
+  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
