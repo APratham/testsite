@@ -6,6 +6,7 @@ favicon: assets/favicon.ico
 name: Testsite
 title: Testing site for all features
 email: n1191635@my.ntu.ac.uk
+phone: +44 1234567890
 
 # Dark Mode (true/false/never)
 darkmode: false
