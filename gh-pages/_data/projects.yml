@@ -28,10 +28,10 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     The user interface for the model consisted of an app built on <mark>Flutter</mark> to enable
     cross platform and multi device compatiblity 
 
-- layout: top-right
-  name: Sentiment Analysis for Depression Detection on Tweets (top-right)
+- layout: top
+  name: 
   quote: >
-    TE Research project
+      
   description: |
     This project carried out sentiment analysis on tweets using <mark>NLP</mark> techniques. The model accepted tweet URL
     as an input and used <mark>web scrapping</mark> to obtain the data. Then we detected whether the tweet contained a
