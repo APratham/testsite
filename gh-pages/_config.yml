@@ -1,50 +1,42 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: fa-github
+favicon: assets/favicon.ico
 
 # Personal info
-name: Testsite
-title: Testing site for all features
-email: n1191635@my.ntu.ac.uk
-phone: +44 1234567890
+name: AIOps & Predictive Analytics for Container Logs Monitoring
+title: AI-driven proactive container management
+email: antariksh.pratham2023@my.ntu.ac.uk
+
 
 # Dark Mode (true/false/never)
 darkmode: false
 
-# # Social links
-# twitter_username: ___apratham___
-# #stackoverflow_username: /9378758/antariksh-pratham
-# facebook_username: antariksh.pratham
-# instagram_username: ___apratham___
-# linkedin_username: apratham
-# github_username:  APratham
-
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: fa-twitter
-  url: https://google.com
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+- title: GitHub Repository
+  icon: fa-github
+  url: https://github.com/APratham/testsite
 
 # About Section
-about_title: About Me (Use this to override about section title)
+about_title: About this project
 #about_profile_image: assets/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  > Bringing value from grayscale data
+  > AI is the new electricity. Just as electricity transformed almost everything 100 years ago, 
+  today I actually have a hard time thinking of an industry that I don't think AI will transform in 
+  the next several years. 
 
-  Antariksh is an AI, ML Researcher. He is completing his BE from PCCOE, Pune. He has great interest in Google Cloud Platform and uses it to build his projects.
-  Apart from that he is also well versed in embedded systems and SOCs like the Raspberry Pi and the Arduino platforms. He is a Mentor onboard the MahaWiki group
-  and has organised several seminars and workshops along with them. When he is not into tech he enjoys writing blogs and interacting with others to disseminate knowledge.
+  This project seeks to transform container management through the integration of AI-driven operations, 
+  aimed at enhancing monitoring and predictive analytics. Traditional tools struggle with the 
+  complexity of modern applications, causing delays in problem resolution and diminishing system reliability. 
+  By utilizing machine learning models to analyze historical data, this project aims to forecast and prevent 
+  system failures and performance issues. This proactive strategy not only boosts operational efficiency 
+  but also optimizes resource use. The objective is to develop an intelligent monitoring solution that 
+  enhances system resilience and agility, offering tailored recommendations for improved development 
+  and resource management.
 
-  <mark>C/C++</mark> <mark>Java</mark> <mark>Python</mark> <mark>HTML5</mark> <mark>CSS3</mark> <mark>Google Cloud Platform</mark> <mark>TensorFlow</mark> <mark>Flutter</mark>
+  <mark>Angular</mark> <mark>Docker</mark> <mark>Electron</mark> <mark>Elasticsearch</mark> <mark>Grafana</mark> 
+  <mark>Ionic Framework</mark> <mark>Kibana</mark> <mark>Kubernetes</mark> <mark>Logstash</mark> <mark>NodeJS</mark> 
+  <mark>OpenStack</mark> <mark>OpenTelemetry</mark> <mark>Prometheus</mark> <mark>Python</mark>
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 #
 #  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
