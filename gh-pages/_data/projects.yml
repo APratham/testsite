@@ -1,76 +1,46 @@
 # Project template
 
 - layout: left
-  name: PCCOE Spectrum App (left)
+  name:  
   quote: >
-    An information app for a college event
+      
   description: | # this will include new lines to allow paragraphs
-    I built this app in my first year of college to allow me to be acquainted by
-    <mark>Android</mark> concepts. It was just an information app for the event with details
-    about the competitions being organised and an option to register if interested
-    in the event. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.
+    The project is designed to transform container management by integrating AI-driven operations to enhance monitoring and predictive analytics. 
+    Here are the key features and benefits of our solution:
 
 - layout: top
-  name: Image Segmentation for Cloud and Horizon Detection (top) 	
+  name: Generative AI for Log Interpretation 	
   quote: >
      
   description: |
-    This project was a part of my <mark>SIH 2020</mark> submission. We had taken this statement from
-    ISRO. We built a neural network for Cloud Detection using Semantic Segmentation on <mark>PyTorch</mark>.
-    The user interface for the model consisted of an app built on <mark>Flutter</mark> to enable
-    cross platform and multi device compatiblity 
+    The first part of our project focuses on making log data more accessible and understandable for developers who may lack a background in DevOps. 
+    By leveraging generative AI, our system translates complex log information into easy-to-understand narratives, helping developers quickly grasp 
+    the essence of logs and focus on critical issues in the application and infrastructure.
 
 - layout: top
-  name: 
+  name: Event Extraction and Predictive Analytics
   quote: >
       
   description: |
-    This project carried out sentiment analysis on tweets using <mark>NLP</mark> techniques. The model accepted tweet URL
-    as an input and used <mark>web scrapping</mark> to obtain the data. Then we detected whether the tweet contained a
-    depressive sentiment or not. If there was a depressive sentiment, the model had an option to notify the
-    user as well as local authorities.
+    Building on the foundation of simplified log data, the second part of our project involves extracting significant events from these logs. 
+    Using advanced machine learning models, we analyze these events to predict potential system failures and performance bottlenecks. 
+    This proactive approach allows teams to address issues before they escalate, ensuring smoother and more reliable application performance.
 
-- layout: top-middle
-  name: Modern Web Resume
+- layout: top
+  name: Proactive Anomaly Prevention and Recommendations
   quote: >
-    A modern simple and static resume, powered by Jekyll and GitHub pages.
+      
   description: |
-    This is a <mark>Jekyll</mark> template for a web resume. Most of the components can be found on Open Source.
-    It uses GitHub CI/CD for seamless deployment of the code.
+    The third and most challenging aspect of our project is the provision of actionable recommendations to prevent detected anomalies and 
+    restore the system to a stable state. By identifying patterns and potential precursors to system disruptions, our AI system offers 
+    tailored advice to developers and IT operators. These recommendations not only help in quickly mitigating risks but also in optimizing 
+    the development process and resource allocation, enhancing overall system resilience and operational efficiency.
 
-- layout: top-middle
-  name: Vulnerability Analysis of Autonomous Cars using Hacking Techniques
+- layout: top
+  name:   
   quote: >
-    BE Project
+      
   description: |
-    This project was a part of my final year project. We built a model to detect vulnerabilities in
-    autonomous cars using hacking techniques. We used <mark>AWS Deepracer</mark> as the prototype for the project.
-    This provided us a unique opportunity to work with real world data and real world scenarios while still being
-    constrained in a safe environment. 
-
-- layout: top-middle
-  name: 'Container-Based File Encryption and Retrieval: A Scalable System'
-  quote: >
-    Coursework for the Advanced Software Engineering module
-  description: |
-    This project was a part of my coursework for the Advanced Software Engineering module. We built a scalable system
-    for file encryption and retrieval using containers. The system was built using <mark>Java</mark> for the backend and the frontend
-    was made using <mark>Java FX</mark> for creating a basic frontend. <mark>Docker</mark> was used for
-    container orchestration. The system was built to be scalable and secure.
-
-- layout: top-middle
-  name: Software Application Integration using Web Services
-  quote: >
-    Coursework for the Service Oriented Cloud Architecture module
-  description: |
-    This project was a part of my coursework for the Service Oriented Cloud Architecture module. We built a Flight Booking application
-
-- layout: top-middle
-  name: AIOps and Predictive Analytics for Container Monitoring
-  quote: >
-    Coursework for the Research Methodology module
-  description: |
+    Our solution aims to create an intelligent monitoring environment that empowers developers and IT operators to stay ahead of potential 
+    issues, fostering a more resilient and agile technological infrastructure. This integration of AI-driven insights and proactive management 
+    sets a new benchmark in container management, addressing the dual needs of operational efficiency and proactive issue resolution.
