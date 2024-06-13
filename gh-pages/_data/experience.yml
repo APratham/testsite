@@ -3,7 +3,20 @@
   quote: >
      
   description: | # this will include new lines to allow paragraphs
-    I was responsible for designing content used by the organisation on their social media accounts.
-    I have worked on articles, audio podcasts and many more forms of content to educate the masses on
-    Coronavirus. It was a privilege for me to be working with an organisation that is carrying out such
-    a noble job. 
+    Our project leverages a robust and diverse technological stack to deliver an intelligent, AI-driven container
+    management solution. Each technology plays a critical role in ensuring the efficiency, reliability, and 
+    scalability of the system.
+    <br><br>
+    The application is built using a Python backend that runs a majority of the application logic, including the 
+    machine learning models that analyze historical data to predict system failures and performance issues. Its 
+    extensive libraries and frameworks, such as <mark>TensorFlow</mark> and <mark>Scikit-learn</mark>, 
+    facilitate the development of sophisticated predictive models and algorithms. The frontend of the application
+    is built in <mark>Angular</mark> and <mark>Ionic Framework</mark>, providing a user-friendly interface while 
+    at the same time ensuring cross-platform compatibility. The application can run as an executable on <mark>MacOS</mark>,
+    <mark>Windows</mark> and <mark>Linux</mark>. There is a containerized version using <mark>Docker</mark>
+    and deployed on <mark>Kubernetes</mark> for efficient resource management and scalability. The monitoring and
+    visualization of system metrics are handled by <mark>OpenTelemetry</mark>.
+    <br><br>
+    The application also comes with a deployable example architecture to run the different features in a proper manner.
+    The example architecture includes <mark>minikube</mark> containers, and a <mark>Vagrantfile</mark>for virtual machines
+    and/or containers, depending upon the preferences of the user.
