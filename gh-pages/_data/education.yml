@@ -30,6 +30,7 @@
 - layout: top
   name: Compliance and Security Monitoring
   description: |
+    <br><br>
     In industries with stringent compliance and security requirements, such as healthcare or finance, 
     continuous monitoring and anomaly detection are essential. This application can help ensure 
     compliance by monitoring logs and telemetry data for unusual patterns that might indicate security 
