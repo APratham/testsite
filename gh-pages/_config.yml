@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
   By utilizing machine learning models to analyze historical data, this project aims to forecast and prevent 
   system failures and performance issues. This proactive strategy not only boosts operational efficiency 
   but also optimizes resource use. The objective is to develop an intelligent monitoring solution that 
-  enhances system resilience and agility, offering tailored recommendations for improved development 
+  enhances system resilience and agility, while also offering tailored recommendations for improved development 
   and resource management.
   <br><br>
   <mark>Angular</mark> <mark>Docker</mark> <mark>Electron</mark> <mark>Elasticsearch</mark> <mark>Grafana</mark> 
