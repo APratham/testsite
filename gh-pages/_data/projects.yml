@@ -1,9 +1,7 @@
 # Project template
 
 - layout: top
-  name:  
-  quote: >
-      
+  name:     
   description: | # this will include new lines to allow paragraphs
     The project is designed to transform container management by integrating AI-driven operations to enhance monitoring and predictive analytics. 
     Here are the key features and benefits of our solution:

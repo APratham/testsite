@@ -18,5 +18,5 @@
     visualization of system metrics are handled by <mark>OpenTelemetry</mark>.
     <br><br>
     The application also comes with a deployable example architecture to run the different features in a proper manner.
-    The example architecture includes <mark>minikube</mark> containers, and a <mark>Vagrantfile</mark>for virtual machines
+    The example architecture includes <mark>minikube</mark> containers, and a <mark>Vagrantfile</mark> for virtual machines
     and/or containers, depending upon the preferences of the user.

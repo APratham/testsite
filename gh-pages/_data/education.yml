@@ -2,7 +2,7 @@
 - layout: top
   name: Enhanced DevOps efficiency
   description: | # this will include new lines to allow paragraphs
-    <div></div>
+    <br>
     In a large-scale enterprise environment, managing thousands of microservices can become incredibly complex. 
     This application can streamline DevOps operations by providing real-time insights and predictive analytics. 
     By translating complex log data into understandable narratives, even developers without extensive DevOps 
