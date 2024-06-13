@@ -16,7 +16,7 @@
 - layout: top
   name: Image Segmentation for Cloud and Horizon Detection (top) 	
   quote: >
-    	
+     
   description: |
     This project was a part of my <mark>SIH 2020</mark> submission. We had taken this statement from
     ISRO. We built a neural network for Cloud Detection using Semantic Segmentation on <mark>PyTorch</mark>.
