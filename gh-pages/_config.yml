@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
   but also optimizes resource use. The objective is to develop an intelligent monitoring solution that 
   enhances system resilience and agility, offering tailored recommendations for improved development 
   and resource management.
-  <div></div>
+  <br><br>
   <mark>Angular</mark> <mark>Docker</mark> <mark>Electron</mark> <mark>Elasticsearch</mark> <mark>Grafana</mark> 
   <mark>Ionic Framework</mark> <mark>Kibana</mark> <mark>Kubernetes</mark> <mark>Logstash</mark> <mark>NodeJS</mark> 
   <mark>OpenStack</mark> <mark>OpenTelemetry</mark> <mark>Prometheus</mark> <mark>Python</mark>
