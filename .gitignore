@@ -5,4 +5,3 @@ _site
 *.code-workspace
 .DS_Store
 vendor
-/gh-pages/_data/education.yml
